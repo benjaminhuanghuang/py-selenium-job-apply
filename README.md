@@ -1,6 +1,12 @@
 # Automatically apply for jobs on LinkedIn (Python + Selenium) (2020)
-- https://www.youtube.com/watch?v=6plKL95a134&ab_channel=AICoding
+- https://www.youtube.com/watch?v=6plKL95a134&list=PLNpKaH98va-EbBrOvqpiSoJB_ghWb5O1n
 - https://github.com/coding-ai/EasyApply-Linkedin
+
+
+- How to create a LinkedIn Bot using Python and Selenium
+  - https://www.youtube.com/watch?v=NxQEbRNxbZs&ab_channel=CocaKhosla
+
+
 
 RPA robotic process automation
 
